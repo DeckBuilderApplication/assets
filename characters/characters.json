@@ -13,7 +13,8 @@
         }
       ],
       "available": true,
-      "free": true
+      "free": true,
+      "minVersion": "1.0.0"
     },
     {
       "id": 2,
@@ -28,7 +29,8 @@
         }
       ],
       "available": true,
-      "free": true
+      "free": true,
+      "minVersion": "1.0.0"
     },
     {
       "id": 3,
@@ -44,7 +46,8 @@
         }
       ],
       "available": true,
-      "free": true
+      "free": true,
+      "minVersion": "1.0.0"
     }
   ]
 }
