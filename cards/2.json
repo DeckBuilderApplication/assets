@@ -1,0 +1,62 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "characteristics": [
+        {
+          "id": 1,
+          "value": 10
+        }, 
+        {
+          "id": 2,
+          "value": 9
+        }
+      ],
+      "available": true,
+      "free": true,
+      "playableCharacters": [
+        2
+      ],
+      "minVersion": "1.0.0"
+    },
+    {
+      "id": 2,
+      "characteristics": [
+        {
+          "id": 1,
+          "value": 9
+        },
+        {
+          "id": 2,
+          "value": 10
+        }
+      ],
+      "available": true,
+      "free": true
+      "playableCharacters": [
+        2
+      ],
+      "minVersion": "1.0.0"
+    },
+    {
+      "id": 3,
+      
+      "characteristics": [
+        {
+          "id": 1,
+          "value": 8
+        },
+        {
+          "id": 2,
+          "value": 9
+        }
+      ],
+      "available": true,
+      "free": true
+      "playableCharacters": [
+        2
+      ],
+      "minVersion": "1.0.0"
+    }
+  ]
+}
