@@ -19,7 +19,8 @@
         1, 2, 3
       ],
       "baseCard": false,
-      "minVersion": "1.0.0"
+      "minVersion": "1.0.0",
+      "rarity": "common",
     },
     {
       "id": "common_2",
@@ -37,9 +38,10 @@
       "free": true,
       "playableCharacters": [
         1, 2, 3
-      ],,
+      ],
       "baseCard": false,
-      "minVersion": "1.0.0"
+      "minVersion": "1.0.0",
+      "rarity": "common",
     },
     {
       "id": "common_3",
@@ -59,7 +61,8 @@
         1, 2, 3
       ],,
       "baseCard": false,
-      "minVersion": "1.0.0"
+      "minVersion": "1.0.0",
+      "rarity": "common",
     }
   ]
 }
