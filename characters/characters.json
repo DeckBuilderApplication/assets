@@ -12,7 +12,8 @@
           "value": 9
         }
       ],
-      "available": true
+      "available": true,
+      "free": true
     },
     {
       "id": 2,
@@ -26,7 +27,8 @@
           "value": 10
         }
       ],
-      "available": true
+      "available": true,
+      "free": true
     },
     {
       "id": 3,
@@ -41,7 +43,8 @@
           "value": 9
         }
       ],
-      "available": true
+      "available": true,
+      "free": true
     }
   ]
 }
