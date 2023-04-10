@@ -11,7 +11,8 @@
           "id": 2,
           "value": 9
         }
-      ]
+      ],
+      "available": true
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
           "id": 2,
           "value": 10
         }
-      ]
+      ],
+      "available": true
     },
     {
       "id": 3,
@@ -38,7 +40,8 @@
           "id": 2,
           "value": 9
         }
-      ]
+      ],
+      "available": true
     }
   ]
 }
