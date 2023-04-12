@@ -14,7 +14,12 @@
       ],
       "available": true,
       "free": true,
-      "minVersion": "1.0.0"
+      "minVersion": "1.0.0",
+      "image": "https://raw.githubusercontent.com/DeckBuilderApplication/assets/main/characters/character_fighter.jpg",
+      "name": [
+        "en": "fighter",
+        "fr": "combattant"
+      ]
     },
     {
       "id": 2,
@@ -30,7 +35,12 @@
       ],
       "available": true,
       "free": true,
-      "minVersion": "1.0.0"
+      "minVersion": "1.0.0",
+      "image": "https://raw.githubusercontent.com/DeckBuilderApplication/assets/main/characters/character_wizard.jpg",
+      "name": [
+        "en": "wizard",
+        "fr": "sorcier"
+      ]
     },
     {
       "id": 3,
@@ -47,7 +57,12 @@
       ],
       "available": true,
       "free": true,
-      "minVersion": "1.0.0"
+      "minVersion": "1.0.0",
+      "image": "https://raw.githubusercontent.com/DeckBuilderApplication/assets/main/characters/character_fairy.jpg",
+      "name": [
+        "en": "fairy",
+        "fr": "fée"
+      ]
     }
   ]
 }
