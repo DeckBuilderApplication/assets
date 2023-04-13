@@ -17,8 +17,14 @@
       "minVersion": "1.0.0",
       "image": "https://raw.githubusercontent.com/DeckBuilderApplication/assets/main/characters/character_fighter.jpg",
       "name": [
-        "en": "fighter",
-        "fr": "combattant"
+        {
+          "locale": "en",
+          "value": "fighter"         
+        },
+        {
+          "locale": "fr",
+          "value": "combattant"
+        }
       ]
     },
     {
@@ -38,8 +44,14 @@
       "minVersion": "1.0.0",
       "image": "https://raw.githubusercontent.com/DeckBuilderApplication/assets/main/characters/character_wizard.jpg",
       "name": [
-        "en": "wizard",
-        "fr": "sorcier"
+        {
+          "locale": "en",
+          "value": "wizard"         
+        },
+        {
+          "locale": "fr",
+          "value": "sorcier"
+        }
       ]
     },
     {
@@ -60,8 +72,14 @@
       "minVersion": "1.0.0",
       "image": "https://raw.githubusercontent.com/DeckBuilderApplication/assets/main/characters/character_fairy.jpg",
       "name": [
-        "en": "fairy",
-        "fr": "fée"
+        {
+          "locale": "en",
+          "value": "fairy"         
+        },
+        {
+          "locale": "fr",
+          "value": "fée"
+        }
       ]
     }
   ]
