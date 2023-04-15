@@ -9,7 +9,7 @@
         }, 
         {
           "id": 2,
-          "value": 9
+          "value": 5
         }
       ],
       "available": true,
@@ -32,11 +32,11 @@
       "characteristics": [
         {
           "id": 1,
-          "value": 9
+          "value": 7
         },
         {
           "id": 2,
-          "value": 10
+          "value": 6
         }
       ],
       "available": true,
@@ -64,7 +64,7 @@
         },
         {
           "id": 2,
-          "value": 9
+          "value": 5
         }
       ],
       "available": true,
