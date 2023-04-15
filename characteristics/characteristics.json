@@ -1,0 +1,30 @@
+{
+  "characteristics": [
+    {
+      "id": 1,
+      "name": [
+        {
+          "locale": "en",
+          "value": "health points"         
+        },
+        {
+          "locale": "fr",
+          "value": "point de vie"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": [
+        {
+          "locale": "en",
+          "value": "card draw per turn"         
+        },
+        {
+          "locale": "fr",
+          "value": "cartes tirées par tour"
+        }
+      ]
+    }
+  ]
+}
